@@ -66,13 +66,16 @@
   <!-- Javascript (.js) code to create the map -->
   <script>
 
+  // Define map bounds (set to world bounds if no specific area)
+  var bounds = L.latLngBounds([[-85, -180], [85, 180]]);
+	  
   // initial map center and zoom level
   var map = L.map('map', {
     center: bounds.getCenter(), // EDIT lat, long to re-center map
     zoom: 2,  // from 1 to 18 
     scrollWheelZoom: true,
 	maxBounds: bounds,
-    maxBoundsViscosity: 1.0
+    maxBoundsViscosity: 1.0,
     tap: false
   });
 
