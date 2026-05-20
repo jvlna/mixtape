@@ -2,7 +2,7 @@
 This is the map element of my mixed-media travel journal.
 
 ## Link to active map
-[w2sql.github.io/mixtape/](https://w2sql.github.io/mixtape/)
+[jvlna.github.io/mixtape/](https://jvlna.github.io/mixtape/))
 
 ## Credits
 [Leaflet open-source JavaScript mapping library](https://leafletjs.com/)
