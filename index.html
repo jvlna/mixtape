@@ -57,7 +57,6 @@
   .link a:hover {
     text-decoration: underline;
   }
-}
   </style>
 
 </head>
@@ -124,7 +123,7 @@ var map = L.map('map', {
       <div class="link"><a href="${row.link}" target="_blank">Listen here!</a></div>
     </div>
   </div>
-`, { maxWidth: isMobile ? 200 : 350
+`, { maxWidth: isMobile ? 200 : 350,
    autoPan: true,
   autoPanPaddingTopLeft: L.point(10, 10),
   autoPanPaddingBottomRight: L.point(10, 40)
