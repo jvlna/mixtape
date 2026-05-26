@@ -49,7 +49,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Articles
 
-All the weitten copy and articles in data.csv are licensed under
+All the written copy and articles linked in data.csv are licensed under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). The attribution requirement is only met when:
 
 1. A link is directed towards the original article.
@@ -59,6 +59,5 @@ All the weitten copy and articles in data.csv are licensed under
 # Images
 
 All the files inside `source/map-media` directory are copyrighted to Javelina Productions. All rights reserved.
-
 
 
